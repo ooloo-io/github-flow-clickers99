@@ -21,8 +21,6 @@ body {
 
 .content {
   min-height: calc(100vh - 100px);
-<<<<<<< HEAD
-=======
   width: 720px;
   max-width: 100%;
   margin: auto;
@@ -36,5 +34,4 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
->>>>>>> c0c76ef (Add bottom section)
 }
